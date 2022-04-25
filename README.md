@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asFarr
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Game Design, UI Development, and Audio Engineering
-- 🌱 I’m currently learning Python, Java, and bash
+- 🌱 I’m currently learning C/C++, Python, Java, PowerShell, and bash
 - 💞️ I’m looking to collaborate on whatever improves my knowledge of the above
 - 📫 How to reach me is a tough matter. Maybe just send me a message on here
 
